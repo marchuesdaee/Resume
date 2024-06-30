@@ -1,0 +1,42 @@
+body{
+    background-color: grey;
+}
+
+.resume{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h1{
+    text-align: center;
+}
+
+#name{
+    display: inline-block;
+}
+
+h3{
+  text-align: left;
+  width: 68%;
+  margin-bottom: 0vh;
+}
+img{
+    width: 30%;
+    text-align: right;
+}
+
+p{
+    margin-top: 0vh;
+    margin-bottom: 0vh;
+}
+
+.item p{
+    display: inline-block;
+    margin-bottom: 1vh;
+}
+
+.title{
+    width: 50%;
+}
